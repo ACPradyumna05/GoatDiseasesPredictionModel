@@ -37,3 +37,8 @@ CapraCure is an AI-driven disease diagnosis tool designed specifically for goat 
 - **Data Updates:** Keeping the disease database current with new variants.
 - **Scalability:** Expanding the model to support a wider range of livestock diseases.
 
+![image](https://github.com/user-attachments/assets/77e984c7-fd89-4148-b370-d935e1fa2183)
+![image](https://github.com/user-attachments/assets/3e148c69-1b46-4a2c-9dfa-03e3e2321010)
+![image](https://github.com/user-attachments/assets/5ab8cdff-f9fe-4d62-8910-481da31ae1df)
+![image](https://github.com/user-attachments/assets/ae9d94b6-c07a-4067-8621-fcd13be294e4)
+
